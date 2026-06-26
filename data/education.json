@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+        "logo": "images/polineslogo.png",
+        "major": "Bachelor of Applied Engineering in Electronic Engineering Technology",
+        "year": "2023 - Present",
+        "description": "Currently pursuing a Bachelor's Applied Degree in Electronic Engineering Technology."
+    },
+    {
+        "university": "MAN 02 Pati",
+        "logo": "images/man2pati.jpg",
+        "major": "Science (IPA)",
+        "year": "2020 - 2023",
+        "description": "Completed secondary education with a focus on Mathematics and Natural Sciences (IPA). Developed a strong foundation in physics, mathematics, and analytical problem-solving, which led to a growing interest in electronics and engineering technology."
+    }
+]

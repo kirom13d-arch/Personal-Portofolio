@@ -1,0 +1,35 @@
+{
+    "name": "Muhammad Alfi Kirom - Electronic Engineering",
+    "description": "I am an Electronics Engineering student at Politeknik Negeri Semarang with a strong passion for Embedded Systems, Internet of Things (IoT), PCB Design, and Automation Technology. I have experience developing various projects using Arduino, ESP32, sensors, and web-based monitoring systems. Beyond electronics, I am also interested in audio engineering and DMX lighting control for live productions. I enjoy solving technical problems, learning emerging technologies, and transforming ideas into practical solutions. My goal is to continuously improve my technical expertise and contribute to innovative projects in the fields of electronics and automation.",
+    "profileImage": "images/profile.jpg",
+    "email": "alfi.43423313@mhs.polines.ac.id",
+    "phone": "+62 812 1679 8086",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/alfkirom_/"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/kirom13d-arch"
+        },
+        {
+            "platform": "x",
+            "url": "https://x.com/94K1rom"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name":"Embedded System","icon":"fas fa-microchip","level":60},
+        {"name":"PCB Design","icon":"fas fa-memory","level":85},
+        {"name":"Web Development","icon":"fas fa-laptop-code","level":65},
+        {"name":"Audio System Engineering","icon":"fas fa-volume-high","level":85},
+        {"name":"DMX Lighting Operation","icon":"fas fa-lightbulb","level":85},
+        {"name":"Microcontroller Programming","icon":"fas fa-code","level":60},
+        {"name":"Project Management","icon":"fas fa-list-check","level":70}
+    ]
+}

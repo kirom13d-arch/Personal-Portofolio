@@ -1,0 +1,30 @@
+[
+    {
+        "company": "Polines Robotics Evolution",
+        "logo": "images/polirevo.png",
+        "position": "Person in Charge (PIC) of Electronics - KRAI Division",
+        "year": "2025 - Present",
+        "description": "Responsible for the design, development, integration, and maintenance of electronic systems for the KRAI (Kontes Robot ABU Indonesia) team. Managing electronic components, sensor systems, power distribution, PCB development, hardware troubleshooting, and ensuring the reliability of robot electronics during testing and competitions."
+    },
+    {
+        "company": "Komunitas Mahasiswa Pati",
+        "logo": "images/kompi.jpg",
+        "position": "Member",
+        "year": "2023 - Present",
+        "description": "Participating in a student community that brings together students from POLINES, UNDIP, and Poltekkes Semarang. Involved in social activities, networking programs, and community development initiatives while building strong connections and collaboration among students from Pati."
+    },
+    {
+        "company": "Arjuna Wijaya",
+        "logo": "images/arjuna.png",
+        "position": "Lighting Operator",
+        "year": "2022 - Present",
+        "description": "Operating DMX lighting systems for various live events, and public events. Responsible for lighting setup, programming, operation, and troubleshooting during productions."
+    },
+    {
+        "company": "Agro Kopyor",
+        "logo": "images/agrologo.jpg",
+        "position": "Service Staff",
+        "year": "2023",
+        "description": "Responsible for serving customers, taking orders, delivering food and beverages, and maintaining service quality. Gained valuable experience in communication, teamwork, time management, and customer satisfaction."
+    }
+]
