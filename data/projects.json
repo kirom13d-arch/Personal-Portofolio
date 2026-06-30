@@ -1,4 +1,32 @@
 [
     {
+        "title": "DOTClock",
+        "year": "2025",
+        "fund": "Rp. 3.904.000,00",
+        "partner": "PMW POLINES",
+        "role": "Electrical Design",
+        "description": "IoT-based digital dot matrix clock with automatic time synchronization and real-time information display.",
+        "image": "images/project1.png",
+        "link": "https://example.com/DOTClock"
+    },
+    {
+        "title": "Air Heater Module",
+        "year": "2025",
+        "fund": "Rp. 354.200,00",
+        "partner": "Lab. Kendali POLINES",
+        "role": "Electrical Design",
+        "description": "Educational air-heating process trainer designed for control system experiments and PID controller implementation.",
+        "image": "images/project2.jpeg",
+        "link": "https://example.com/DOTClock"
+    },
+    {
+        "title": "Digital Prayer Time Display (JWS)",
+        "year": "2025",
+        "fund": "Rp. 2.540.000,00",
+        "partner": "Musholla",
+        "role": "Electrical Design",
+        "description": "P10 LED display for prayer schedules, digital clock, and mosque information in real time.",
+        "image": "images/project3.jpeg",
+        "link": "https://example.com/JWS"
     }
 ]
